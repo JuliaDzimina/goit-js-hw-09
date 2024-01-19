@@ -1,0 +1,10 @@
+ul li{
+    list-style: none;
+}
+
+.navigation{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    font-weight: 600;
+
+}
