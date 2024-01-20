@@ -87,6 +87,6 @@ const images = [
     captionsData: "alt",
     captionPosition: "bottom",
     captionDelay: 250,
-    overlayOpacity: 0.8,
+    
 });
 
