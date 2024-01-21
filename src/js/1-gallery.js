@@ -81,7 +81,7 @@ const images = [
   </li>`; 
     }).join(' ');
     
- gallery.innerHTML = makeup;
+    gallery.insertAdjacentHTML("afterbegin", makeup);
 
   let lightbox = new SimpleLightbox('.gallery a', {
     captionsData: "alt",
